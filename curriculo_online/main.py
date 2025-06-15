@@ -26,7 +26,7 @@ Sou Técnico de Informática na **Prefeitura de Belo Horizonte** e estou cursand
 
 Com foco nas principais linguagens de programação e tecnologias do mercado, estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor.
 '''
-st.image("https://raw.githubusercontent.com/SantanaDZ/curriculo-teste/refs/heads/main/curriculo_online/img/profile.jpeg)
+st.image("https://raw.githubusercontent.com/SantanaDZ/curriculo-teste/refs/heads/main/curriculo_online/img/profile.jpeg")
 '''
 '''
 #lottie_json = load_lottie_url("https://assets2.lottiefiles.com/packages/lf20_kkflmtur.json")
