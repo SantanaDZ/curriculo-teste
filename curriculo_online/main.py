@@ -18,7 +18,7 @@ def load_lottie_url(url: str):
 # Markdown
 '''
 
-# Olá, eu sou o André Santana Martins 👋
+# Olá, eu sou o André Santana Martins
 ---
 ## Sobre Mim
 
