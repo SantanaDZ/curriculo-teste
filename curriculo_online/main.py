@@ -84,18 +84,18 @@ Confira alguns dos meus projetos abaixo:
 
 ---
 
-# 📫 Como me encontrar
+# Como me encontrar
 
 - **E-mail**: [andresantmartins@outlook.com](mailto:andresantmartins@outlook.com)
 - **LinkedIn**: [André Santana Martins](https://www.linkedin.com/in/andre-santana-martins-b8b619355)
 - **Telefone**: +55(31)98438-2472
 ---
 
-Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato! 😄
+Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato! 
 
 '''
 
-st.markdown("### 📩 Formulário de Contato Real")
+st.markdown("###  Formulário de Contato Real")
 
 with st.form("formspree_form"):
     name = st.text_input("Nome")
